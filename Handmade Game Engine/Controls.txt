@@ -1,0 +1,11 @@
+Controls for my game:
+
+Leftdirectionbutton - Left
+Rightdirectionbutton - Right
+Space - Fire bullet
+F - Fire laserbeam
+Escape - Quit game
+
+Notes about game:
+
+	- Player takes 3 hits before losing a life!

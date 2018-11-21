@@ -1,0 +1,96 @@
+﻿  AABB.cpp
+  Animation.cpp
+  Asteroid.cpp
+  Audio.cpp
+  AudioManager.cpp
+  Buffer.cpp
+  Bullet.cpp
+  Camera.cpp
+  Enemy.cpp
+  ExplosionAnim.cpp
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\explosionanim.cpp(24): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+  GameState.cpp
+  HUDCamera.cpp
+  DebugManager.cpp
+  EndState.cpp
+  Game.cpp
+  GameObject.cpp
+  HUD.cpp
+  InputManager.cpp
+  Laserbeam.cpp
+  Light.cpp
+  Compiling...
+  Lives.cpp
+  Main.cpp
+  MainCamera.cpp
+  MainState.cpp
+  Material.cpp
+  Model.cpp
+  Moon.cpp
+  OBB.cpp
+  PipelineManager.cpp
+  Planet.cpp
+  Player.cpp
+  Quaternion.cpp
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(106): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(107): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(108): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(111): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(112): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(113): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(116): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(117): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\quaternion.cpp(118): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Rigidbody.cpp
+  ScreenManager.cpp
+  Sphere.cpp
+  SplashScreen.cpp
+  Sprite.cpp
+  StartState.cpp
+  Text.cpp
+  TextBox.cpp
+  Compiling...
+  Texture.cpp
+  Tools.cpp
+  Universe.cpp
+  Generating code
+d:\uni\4400\summative 2 (final)\handmade game engine\handmade\player.cpp(126): warning C4715: 'Player::getLaserbeamBox': not all control paths return a value
+  All 1554 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Handmade.vcxproj -> D:\Uni\4400\Summative 2 (FINAL)\Handmade Game Engine\Release\Handmade.exe
